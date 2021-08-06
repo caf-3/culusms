@@ -1,5 +1,5 @@
 {
-  "name": "culusms-js",
+  "name": "culusms",
   "version": "1.0.0",
   "description": "culusms SDK for Javascript",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/caf-3/culusms-js.git"
+    "url": "git+https://github.com/caf-3/culusms.git"
   },
   "keywords": [
     "culusms",
@@ -20,9 +20,9 @@
   "author": "Tomás Caetano",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/caf-3/culusms-js/issues"
+    "url": "https://github.com/caf-3/culusms/issues"
   },
-  "homepage": "https://github.com/caf-3/culusms-js#readme",
+  "homepage": "https://github.com/caf-3/culusms#readme",
   "dependencies": {
     "form-data": "^4.0.0",
     "node-fetch": "^2.6.1"
