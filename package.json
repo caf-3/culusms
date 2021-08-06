@@ -1,0 +1,30 @@
+{
+  "name": "culusms-js",
+  "version": "1.0.0",
+  "description": "culusms SDK for Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caf-3/culusms-js.git"
+  },
+  "keywords": [
+    "culusms",
+    "js-sms",
+    "sms-gateway",
+    "js-sms-sender",
+    "sms-js"
+  ],
+  "author": "Tomás Caetano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caf-3/culusms-js/issues"
+  },
+  "homepage": "https://github.com/caf-3/culusms-js#readme",
+  "dependencies": {
+    "form-data": "^4.0.0",
+    "node-fetch": "^2.6.1"
+  }
+}
