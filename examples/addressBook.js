@@ -34,11 +34,6 @@ client.addressBook.getContacts().then(res => {
     console.log('error', err)
 })
 
-client.addressBook.getContacts().then(res => {
-    console.log('success', res);
-}).catch(err => {
-    console.log('error', err)
-})
 
 /**
  * @param id Number:<Required />
