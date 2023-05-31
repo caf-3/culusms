@@ -5,7 +5,7 @@ Um SDK feito para o envio de sms usando o serviço [`culusms.com`](culusms.com)
 
 - [Apresentação](#Apresentação)
 - [Instalação](#Instalação)
-- [Primeiros passos](#Primeiros Passos)
+- [Primeiros passos](#PrimeirosPassos)
 - [Mensagens](#Mensagens)
     - [Enviar](#EnviarMensagem)
     - [Pendentes](#MensagensPendentes)
@@ -33,7 +33,7 @@ $ npm install culusms
 
 ```
 
-## Primeiros Passos
+## PrimeirosPassos
 Para criar uma instancia do culusms dentro de um arquivo .js(Obviamente) criado por ti. Adicione o seguinte trecho
 ```js
 const CuluSms = require('culusms');
